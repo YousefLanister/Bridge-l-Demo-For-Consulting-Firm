@@ -1,0 +1,311 @@
+/* Links */
+
+.link {
+    margin: 15px;
+    letter-spacing: 2px;
+    font-weight: 500;
+}
+
+.link span {
+    color: #555555;
+    font-family: Roboto;
+    font-size: 12px;
+    margin-left: 100px;
+    /* #979696*/
+}
+
+.link a {
+    color: #555555;
+    text-decoration: none;
+    font-family: Roboto;
+    font-size: 11px;
+}
+
+.link .grand-street {
+    margin-left: 430px;
+}
+
+
+/* Navbar */
+
+.logo ul {
+    margin-left: 390px;
+    margin-top: -27px;
+}
+
+.navbar .logo img {
+    margin-top: 36px;
+    margin-left: 117px;
+}
+
+.navbar .logo .navbar-list li {
+    list-style: none;
+    display: inline-block;
+}
+
+.navbar .logo .navbar-list li a {
+    color: black;
+    font-family: Nanum Gothic;
+    text-decoration: none;
+    margin-right: 52px;
+    font-size: 13px;
+    transition: 0.3s ease-in-out;
+}
+
+.navbar .logo h1 {
+    background: #ff6f56;
+    padding-left: 42px;
+    padding-right: 28px;
+    padding-top: 19px;
+    padding-bottom: 39px;
+    width: 158px;
+    height: 44px;
+    font-family: Nanum Gothic;
+    color: white;
+    margin-left: 1026px;
+    margin-top: -52px;
+    font-size: 20px;
+    transition: 0.3s ease-in-out;
+}
+
+.navbar .logo h1:hover {
+    background: #000;
+}
+
+
+/* Header */
+
+.about img {
+    margin-top: 10px;
+    width: 84%;
+    margin-left: 109px;
+}
+
+.about h1 {
+    margin-left: 112px;
+    margin-top: 54px;
+    font-size: 53px;
+    font-family: none;
+    color: #01011d;
+}
+
+.about p {
+    margin: 0 0 10px;
+    margin-top: 30px;
+    color: #555555;
+    font-size: 24px;
+    margin-bottom: 40px;
+}
+
+.about .grouth {
+    margin-left: 626px;
+    margin-top: -174px;
+}
+
+.about .bret {
+    margin-left: -224px;
+    margin-top: 99px;
+}
+
+.about .bret h1 {
+    color: #090220;
+    width: 414px;
+    font-size: 36px;
+    margin-top: -892px;
+    margin-left: 263px;
+    font-family: Dancing Script;
+}
+
+.about .grouth h3 {
+    color: #01011d;
+    font-size: 38px;
+    font-family: none;
+}
+
+.about .bret img {
+    width: 95px;
+    margin-top: 6px;
+    margin-left: 221px;
+}
+
+.about .bret h3 {
+    margin-left: 330px;
+    margin-top: -81px;
+    font-family: 'Crimson Text';
+}
+
+.about .bret p {
+    color: #555555;
+    margin-top: -6px;
+    font-size: 17px;
+    margin-left: 332px;
+}
+
+
+/* thrivikngs */
+
+.thrivikngs {
+    background: url(images/game-of-thrones.webp) center center fixed;
+    background-size: cover;
+    height: 615px;
+    margin-top: -38px;
+    text-align: center;
+    margin-top: 200px;
+}
+
+.thrivikngs h1 {
+    color: white;
+    padding-top: 142px;
+    padding-left: 30px;
+    font-size: 58px;
+    padding-bottom: 30px;
+    font-family: none;
+}
+
+.thrivikngs a {
+    color: black;
+    text-decoration: none;
+    font-size: 35px;
+    background: white;
+    padding: 20px;
+    padding-right: 40px;
+    padding-left: 40px;
+    font-family: Nanum Gothic;
+    transition: 0.2s ease-in-out;
+}
+
+.thrivikngs a:hover {
+    background: #ee5345;
+    color: white;
+}
+
+
+/* Footer */
+
+footer {
+    background: #f3f3f3;
+    height: 485px;
+}
+
+footer .logo img {
+    margin-top: 114px;
+    margin-left: 105px;
+}
+
+footer .numder p {
+    margin-top: 104px;
+    margin-left: 105px;
+}
+
+footer .numder h2 {
+    margin-top: -9px;
+    margin-left: 102px;
+    font-size: 42px;
+    font-family: none;
+    font-weight: bold;
+}
+
+footer .links {
+    margin-left: 475px;
+    margin-top: -257px;
+}
+
+footer .links a {
+    color: #555555;
+}
+
+footer .navbar-link {
+    margin-left: 842px;
+    margin-top: -201px;
+    font-size: 15px;
+}
+
+footer .navbar-link a {
+    color: #555555;
+}
+
+footer .social-media {
+    margin-left: 1050px;
+    margin-top: -226px;
+    font-size: 14px;
+}
+
+footer .social-media a {
+    color: #555555;
+}
+
+
+/* Footer */
+
+footer {
+    background: #f3f3f3;
+    height: 485px;
+}
+
+footer .logo img {
+    margin-top: 114px;
+    margin-left: 105px;
+}
+
+footer .numder p {
+    margin-top: 104px;
+    margin-left: 105px;
+}
+
+footer .numder h2 {
+    margin-top: -9px;
+    margin-left: 102px;
+    font-size: 42px;
+    font-family: none;
+    font-weight: bold;
+}
+
+footer .links {
+    margin-left: 475px;
+    margin-top: -257px;
+}
+
+footer .links a {
+    color: #555555;
+}
+
+footer .navbar-link {
+    margin-left: 842px;
+    margin-top: -201px;
+    font-size: 15px;
+}
+
+footer .navbar-link a {
+    color: #555555;
+}
+
+footer .social-media {
+    margin-left: 1050px;
+    margin-top: -226px;
+    font-size: 14px;
+}
+
+footer .social-media a {
+    color: #555555;
+}
+
+footer .last-footer {
+    margin-left: 93px;
+    margin-top: 248px;
+}
+
+footer .last-footer a {
+    color: #555555;
+    text-decoration: none;
+}
+
+footer .last-footer .right-footer a {
+    margin-top: -20px;
+    display: flex;
+    margin-left: 879px;
+}
+
+footer .last-footer .right-footer p {
+    margin-left: 217px;
+    margin-top: -9px;
+}
